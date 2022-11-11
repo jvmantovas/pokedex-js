@@ -18,7 +18,7 @@ O projeto consiste em uma PokéDex que consome a pokeAPI para gerar pokemons e s
 <br>
 
 <p align="center">
-  <img alt="demo" src=".github/project.png" width="100%">
+  <img alt="demo" src="./project.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,10 +37,9 @@ Implementações futuras: Barra de pesquisa, filtragem por tipos.
 ## 📝 Aprendizados
 
 Com este projeto pude reforçar meus conhecimentos em vanilla JS, principalmente utilizando o método fetch() e Promise para consumir a API e gerando o HTML dos cards através da manipulação da DOM.
-Além da estrutura HTML e CSS, utilizei o framework Bootstrap para gerar as barras de progresso dos stats dos pokemons.
+Além da estrutura HTML e CSS responsivo, utilizei o framework Bootstrap para gerar as barras de progresso dos stats dos pokemons.
 
-
-## :memo: Licença
+## 📇 Licença
 
 Esse projeto está sob a licença MIT.
 
